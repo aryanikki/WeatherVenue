@@ -13,7 +13,7 @@ function App() {
           About
         </a>{" "} */}
          Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/" rel="noopener noreferrer">
+        <a target="_blank" href="www.linkedin.com/in/aryanikki" rel="noopener noreferrer">
           Nikki Arya
        </a>{" "}
         {/* Powered by{" "} 
