@@ -4,4 +4,4 @@ A dynamic weather prediction website built with React.js. Users input a location
 
 <img align="Left" alt="coding" width="500" src="https://drive.google.com/uc?export=view&id=1hBVnzcB-FuEAIruFbcnE-uggVTX6JL_1">
 
-<img align="Left" alt="coding" width="500" height="700" src="https://drive.google.com/uc?export=view&id=1snRbIzO-67P4jUlptsgVHFVuFrn9hVKp">
+<img align="Left" alt="coding" width="500" height="600" src="https://drive.google.com/uc?export=view&id=1snRbIzO-67P4jUlptsgVHFVuFrn9hVKp">
